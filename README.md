@@ -6,8 +6,7 @@
 
 Cybersecurity student specialising in Digital Forensics & Incident Response,
 with hands-on experience in ethical hacking, security automation, and ML-driven
-security tools. Currently building Cipher City — a gamified platform that uses
-unsupervised ML to classify user cyber-risk personas.
+security tools. 
 
 ---
 
