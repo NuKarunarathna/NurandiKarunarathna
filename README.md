@@ -1,4 +1,4 @@
-# 🕵️ Nu Karunarathna
+# 🕵️ Nurandi Karunarathna
 
 ### Cybersecurity Student | Digital Forensics | Ethical Hacking
 
